@@ -1,7 +1,7 @@
 
 ## Test Images in ReadMe file
 
-![Test Image 1](img1.jpg){:height="50px" width="50px"}
+![Test Image 1](img1.jpg | width=100)
 
 This image is inside images folder
 
