@@ -1,7 +1,7 @@
 
 ## Test Images in ReadMe file
 
-![Test Image 1](cohen-sutherland.png)
+![Test Image 1](img1.jpg)
 
 This image is inside images folder
 
