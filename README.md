@@ -1,7 +1,7 @@
 
 ## Test Images in ReadMe file
 
-![Test Image 1](img1.jpg | width=100)
+<img src="img1.jpg" width="50">
 
 This image is inside images folder
 
